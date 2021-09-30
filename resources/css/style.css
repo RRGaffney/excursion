@@ -5,9 +5,19 @@ body {
     background-color: black;
 }
 
+.download {
+    color: aquamarine;
+    font-size: 16px;
+}
+
 h1 {
     font-size: 50px;
     font-weight: normal;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
 }
 
 h2 {
@@ -17,5 +27,4 @@ h2 {
 
 .footer {
     text-align: right;
-    color: gray;
 }
